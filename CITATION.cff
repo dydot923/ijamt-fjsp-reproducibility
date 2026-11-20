@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  Please cite this software release and the associated manuscript when using
+  these methods. Add the actual public repository URL and persistent identifier
+  after deposition; no publication DOI has yet been registered here.
+type: software
+title: "Code for Objective-matched neighborhoods and exact prefix evaluation for three-objective flexible job-shop scheduling"
+version: 0.1.0
+url: "https://github.com/dydot923/ijamt-fjsp-reproducibility/releases/tag/v0.1.0"
+repository-code: "https://github.com/dydot923/ijamt-fjsp-reproducibility"
+authors:
+  - family-names: Du
+    given-names: Yuyang
+    affiliation: "Beijing Institute of Graphic Communication"
+  - family-names: Zhang
+    given-names: Yongbin
+    affiliation: "Beijing Institute of Graphic Communication"
+keywords:
+  - flexible job-shop scheduling
+  - multi-objective optimization
+  - exact prefix evaluation
+  - reproducibility

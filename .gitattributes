@@ -1,0 +1,3 @@
+# Preserve original bytes: archived protocols and file manifests use SHA256.
+# Python and JSON readers accept both LF and CRLF; do not normalize on checkout.
+* -text

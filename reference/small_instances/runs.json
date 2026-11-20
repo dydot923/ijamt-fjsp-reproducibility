@@ -1,0 +1,7136 @@
+[
+  {
+    "method": "H-NSGA",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.28828389999762294,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3313088000031712,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        23.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2899170000018785,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.8453373482682999,
+    "igdplus": 0.010822510822510824,
+    "hv_ratio": 0.9968322088161202,
+    "exact_coverage": 0.75
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3024473000004946,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2840786000015214,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3045185000009951,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2578317000006791,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2640319999991334,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.20909089999986463,
+    "decoder_counts": {
+      "full_calls": 152,
+      "prefix_calls": 48,
+      "reused_operations": 69,
+      "reinserted_operations": 1131
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22468920000028447,
+    "decoder_counts": {
+      "full_calls": 161,
+      "prefix_calls": 39,
+      "reused_operations": 61,
+      "reinserted_operations": 1139
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.21281610000005458,
+    "decoder_counts": {
+      "full_calls": 164,
+      "prefix_calls": 36,
+      "reused_operations": 55,
+      "reinserted_operations": 1145
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.21502759999930277,
+    "decoder_counts": {
+      "full_calls": 160,
+      "prefix_calls": 40,
+      "reused_operations": 68,
+      "reinserted_operations": 1132
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22593380000034813,
+    "decoder_counts": {
+      "full_calls": 161,
+      "prefix_calls": 39,
+      "reused_operations": 65,
+      "reinserted_operations": 1135
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22152630000346107,
+    "decoder_counts": {
+      "full_calls": 168,
+      "prefix_calls": 32,
+      "reused_operations": 59,
+      "reinserted_operations": 1141
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2842549000015424,
+    "decoder_counts": {
+      "full_calls": 170,
+      "prefix_calls": 30,
+      "reused_operations": 41,
+      "reinserted_operations": 1159
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.23960600000282284,
+    "decoder_counts": {
+      "full_calls": 168,
+      "prefix_calls": 32,
+      "reused_operations": 57,
+      "reinserted_operations": 1143
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.23136460000023362,
+    "decoder_counts": {
+      "full_calls": 169,
+      "prefix_calls": 31,
+      "reused_operations": 38,
+      "reinserted_operations": 1162
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2222528999991482,
+    "decoder_counts": {
+      "full_calls": 179,
+      "prefix_calls": 21,
+      "reused_operations": 27,
+      "reinserted_operations": 1173
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2078962000014144,
+    "decoder_counts": {
+      "full_calls": 188,
+      "prefix_calls": 12,
+      "reused_operations": 25,
+      "reinserted_operations": 1175
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.24419720000150846,
+    "decoder_counts": {
+      "full_calls": 181,
+      "prefix_calls": 19,
+      "reused_operations": 27,
+      "reinserted_operations": 1173
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.23364829999991343,
+    "decoder_counts": {
+      "full_calls": 184,
+      "prefix_calls": 16,
+      "reused_operations": 27,
+      "reinserted_operations": 1173
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22800950000237208,
+    "decoder_counts": {
+      "full_calls": 185,
+      "prefix_calls": 15,
+      "reused_operations": 27,
+      "reinserted_operations": 1173
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.21688979999817093,
+    "decoder_counts": {
+      "full_calls": 180,
+      "prefix_calls": 20,
+      "reused_operations": 29,
+      "reinserted_operations": 1171
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        17.0,
+        35.0,
+        17.0
+      ],
+      [
+        18.0,
+        34.0,
+        18.0
+      ],
+      [
+        16.0,
+        37.0,
+        16.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.25961180000012973,
+    "decoder_counts": {
+      "full_calls": 161,
+      "prefix_calls": 39,
+      "reused_operations": 62,
+      "reinserted_operations": 1138
+    },
+    "instance": "T1",
+    "hv": 0.848023710301514,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3478155999982846,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        13.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30770050000137417,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7541403827893323,
+    "igdplus": 0.005980861244019139,
+    "hv_ratio": 0.9798897224854399,
+    "exact_coverage": 0.75
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.31150290000005043,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30115269999805605,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3174231000011787,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.262118399998144,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3388100999982271,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.35143840000091586,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22228529999847524,
+    "decoder_counts": {
+      "full_calls": 139,
+      "prefix_calls": 61,
+      "reused_operations": 111,
+      "reinserted_operations": 1089
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.19560079999791924,
+    "decoder_counts": {
+      "full_calls": 133,
+      "prefix_calls": 67,
+      "reused_operations": 114,
+      "reinserted_operations": 1086
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2352591000017128,
+    "decoder_counts": {
+      "full_calls": 154,
+      "prefix_calls": 46,
+      "reused_operations": 71,
+      "reinserted_operations": 1129
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.1886534000004758,
+    "decoder_counts": {
+      "full_calls": 147,
+      "prefix_calls": 53,
+      "reused_operations": 104,
+      "reinserted_operations": 1096
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2759853999996267,
+    "decoder_counts": {
+      "full_calls": 155,
+      "prefix_calls": 45,
+      "reused_operations": 82,
+      "reinserted_operations": 1118
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2416641999989224,
+    "decoder_counts": {
+      "full_calls": 176,
+      "prefix_calls": 24,
+      "reused_operations": 33,
+      "reinserted_operations": 1167
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.28610740000294754,
+    "decoder_counts": {
+      "full_calls": 160,
+      "prefix_calls": 40,
+      "reused_operations": 65,
+      "reinserted_operations": 1135
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2042871000012383,
+    "decoder_counts": {
+      "full_calls": 147,
+      "prefix_calls": 53,
+      "reused_operations": 95,
+      "reinserted_operations": 1105
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.25952200000028824,
+    "decoder_counts": {
+      "full_calls": 170,
+      "prefix_calls": 30,
+      "reused_operations": 57,
+      "reinserted_operations": 1143
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.24879280000095605,
+    "decoder_counts": {
+      "full_calls": 163,
+      "prefix_calls": 37,
+      "reused_operations": 71,
+      "reinserted_operations": 1129
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2428319000027841,
+    "decoder_counts": {
+      "full_calls": 180,
+      "prefix_calls": 20,
+      "reused_operations": 39,
+      "reinserted_operations": 1161
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.23017070000059903,
+    "decoder_counts": {
+      "full_calls": 164,
+      "prefix_calls": 36,
+      "reused_operations": 69,
+      "reinserted_operations": 1131
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2129970999994839,
+    "decoder_counts": {
+      "full_calls": 155,
+      "prefix_calls": 45,
+      "reused_operations": 91,
+      "reinserted_operations": 1109
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2396206000012171,
+    "decoder_counts": {
+      "full_calls": 175,
+      "prefix_calls": 25,
+      "reused_operations": 47,
+      "reinserted_operations": 1153
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.23046629999953439,
+    "decoder_counts": {
+      "full_calls": 176,
+      "prefix_calls": 24,
+      "reused_operations": 43,
+      "reinserted_operations": 1157
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        25.0,
+        26.0,
+        25.0
+      ],
+      [
+        18.0,
+        29.0,
+        18.0
+      ],
+      [
+        21.0,
+        28.0,
+        21.0
+      ],
+      [
+        12.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 4,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2572973999995156,
+    "decoder_counts": {
+      "full_calls": 169,
+      "prefix_calls": 31,
+      "reused_operations": 49,
+      "reinserted_operations": 1151
+    },
+    "instance": "T2",
+    "hv": 0.7696176064348281,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3186457000010705,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.29232609999962733,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7347010160339746,
+    "igdplus": 0.01389370172444332,
+    "hv_ratio": 0.9879580554392723,
+    "exact_coverage": 0.7142857142857143
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        23.0,
+        27.0,
+        23.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3253629999999248,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7279536709900668,
+    "igdplus": 0.014430014430014433,
+    "hv_ratio": 0.9788848491370113,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.28860509999867645,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7390612635469858,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9938213134995949,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.307566700001189,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2920756000021356,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        11.0,
+        38.0,
+        10.0
+      ],
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.31433759999708855,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7278957183331213,
+    "igdplus": 0.011401244686531737,
+    "hv_ratio": 0.9788069197575577,
+    "exact_coverage": 0.7142857142857143
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.31365350000123726,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T3",
+    "hv": 0.7390612635469858,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9938213134995949,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.19175459999678424,
+    "decoder_counts": {
+      "full_calls": 145,
+      "prefix_calls": 55,
+      "reused_operations": 89,
+      "reinserted_operations": 1111
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        13.0,
+        37.0,
+        13.0
+      ],
+      [
+        14.0,
+        35.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        16.0,
+        32.0,
+        13.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 9,
+    "invalid_schedules": 0,
+    "runtime_s": 0.19570850000309292,
+    "decoder_counts": {
+      "full_calls": 119,
+      "prefix_calls": 81,
+      "reused_operations": 119,
+      "reinserted_operations": 1081
+    },
+    "instance": "T3",
+    "hv": 0.7359428586800361,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.989627970709551,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        23.0,
+        27.0,
+        23.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22919239999828278,
+    "decoder_counts": {
+      "full_calls": 153,
+      "prefix_calls": 47,
+      "reused_operations": 65,
+      "reinserted_operations": 1135
+    },
+    "instance": "T3",
+    "hv": 0.7205854046231075,
+    "igdplus": 0.02164502164502165,
+    "hv_ratio": 0.9689766851995831,
+    "exact_coverage": 0.7142857142857143
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2294824000018707,
+    "decoder_counts": {
+      "full_calls": 150,
+      "prefix_calls": 50,
+      "reused_operations": 89,
+      "reinserted_operations": 1111
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        13.0,
+        37.0,
+        13.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        14.0,
+        35.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 9,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3013675999973202,
+    "decoder_counts": {
+      "full_calls": 154,
+      "prefix_calls": 46,
+      "reused_operations": 65,
+      "reinserted_operations": 1135
+    },
+    "instance": "T3",
+    "hv": 0.7361084376995228,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9898506260789375,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2245084999995015,
+    "decoder_counts": {
+      "full_calls": 125,
+      "prefix_calls": 75,
+      "reused_operations": 120,
+      "reinserted_operations": 1080
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.18517459999929997,
+    "decoder_counts": {
+      "full_calls": 136,
+      "prefix_calls": 64,
+      "reused_operations": 115,
+      "reinserted_operations": 1085
+    },
+    "instance": "T3",
+    "hv": 0.7390612635469858,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9938213134995949,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22521119999873918,
+    "decoder_counts": {
+      "full_calls": 136,
+      "prefix_calls": 64,
+      "reused_operations": 113,
+      "reinserted_operations": 1087
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.24775570000201697,
+    "decoder_counts": {
+      "full_calls": 157,
+      "prefix_calls": 43,
+      "reused_operations": 63,
+      "reinserted_operations": 1137
+    },
+    "instance": "T3",
+    "hv": 0.7390612635469858,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9938213134995949,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2935782999993535,
+    "decoder_counts": {
+      "full_calls": 168,
+      "prefix_calls": 32,
+      "reused_operations": 59,
+      "reinserted_operations": 1141
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22761919999902602,
+    "decoder_counts": {
+      "full_calls": 157,
+      "prefix_calls": 43,
+      "reused_operations": 57,
+      "reinserted_operations": 1143
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2303222000009555,
+    "decoder_counts": {
+      "full_calls": 174,
+      "prefix_calls": 26,
+      "reused_operations": 42,
+      "reinserted_operations": 1158
+    },
+    "instance": "T3",
+    "hv": 0.7390612635469858,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9938213134995949,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        13.0,
+        37.0,
+        13.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        14.0,
+        35.0,
+        13.0
+      ],
+      [
+        19.0,
+        32.0,
+        13.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 9,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2688635000013164,
+    "decoder_counts": {
+      "full_calls": 149,
+      "prefix_calls": 51,
+      "reused_operations": 83,
+      "reinserted_operations": 1117
+    },
+    "instance": "T3",
+    "hv": 0.7354461216215811,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9889600046013987,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.24074929999915184,
+    "decoder_counts": {
+      "full_calls": 166,
+      "prefix_calls": 34,
+      "reused_operations": 47,
+      "reinserted_operations": 1153
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        13.0,
+        35.0,
+        13.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        15.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.21973910000087926,
+    "decoder_counts": {
+      "full_calls": 158,
+      "prefix_calls": 42,
+      "reused_operations": 70,
+      "reinserted_operations": 1130
+    },
+    "instance": "T3",
+    "hv": 0.7390612635469858,
+    "igdplus": 0.006678694509436104,
+    "hv_ratio": 0.9938213134995949,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        25.0,
+        28.0
+      ],
+      [
+        10.0,
+        38.0,
+        10.0
+      ],
+      [
+        14.0,
+        30.0,
+        14.0
+      ],
+      [
+        21.0,
+        26.0,
+        21.0
+      ],
+      [
+        19.0,
+        28.0,
+        19.0
+      ],
+      [
+        16.0,
+        29.0,
+        16.0
+      ],
+      [
+        13.0,
+        32.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.23417350000090664,
+    "decoder_counts": {
+      "full_calls": 178,
+      "prefix_calls": 22,
+      "reused_operations": 36,
+      "reinserted_operations": 1164
+    },
+    "instance": "T3",
+    "hv": 0.7436560813376911,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.35770229999980074,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.36846499999955995,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3305252999998629,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.36868390000017826,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.39934070000163047,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.35660680000000866,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.36180099999910453,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.321381099998689,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2973722999995516,
+    "decoder_counts": {
+      "full_calls": 169,
+      "prefix_calls": 31,
+      "reused_operations": 43,
+      "reinserted_operations": 1157
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.31320960000084597,
+    "decoder_counts": {
+      "full_calls": 174,
+      "prefix_calls": 26,
+      "reused_operations": 46,
+      "reinserted_operations": 1154
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.33240269999805605,
+    "decoder_counts": {
+      "full_calls": 164,
+      "prefix_calls": 36,
+      "reused_operations": 44,
+      "reinserted_operations": 1156
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30892499999754364,
+    "decoder_counts": {
+      "full_calls": 168,
+      "prefix_calls": 32,
+      "reused_operations": 69,
+      "reinserted_operations": 1131
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3713110000026063,
+    "decoder_counts": {
+      "full_calls": 178,
+      "prefix_calls": 22,
+      "reused_operations": 35,
+      "reinserted_operations": 1165
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.37268050000056974,
+    "decoder_counts": {
+      "full_calls": 180,
+      "prefix_calls": 20,
+      "reused_operations": 37,
+      "reinserted_operations": 1163
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2915915999983554,
+    "decoder_counts": {
+      "full_calls": 165,
+      "prefix_calls": 35,
+      "reused_operations": 63,
+      "reinserted_operations": 1137
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3717859000025783,
+    "decoder_counts": {
+      "full_calls": 167,
+      "prefix_calls": 33,
+      "reused_operations": 50,
+      "reinserted_operations": 1150
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2932331999982125,
+    "decoder_counts": {
+      "full_calls": 179,
+      "prefix_calls": 21,
+      "reused_operations": 41,
+      "reinserted_operations": 1159
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.32453009999881033,
+    "decoder_counts": {
+      "full_calls": 181,
+      "prefix_calls": 19,
+      "reused_operations": 37,
+      "reinserted_operations": 1163
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3195190000005823,
+    "decoder_counts": {
+      "full_calls": 182,
+      "prefix_calls": 18,
+      "reused_operations": 33,
+      "reinserted_operations": 1167
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.38555279999854974,
+    "decoder_counts": {
+      "full_calls": 182,
+      "prefix_calls": 18,
+      "reused_operations": 30,
+      "reinserted_operations": 1170
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.34142270000302233,
+    "decoder_counts": {
+      "full_calls": 183,
+      "prefix_calls": 17,
+      "reused_operations": 28,
+      "reinserted_operations": 1172
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2934604000001855,
+    "decoder_counts": {
+      "full_calls": 183,
+      "prefix_calls": 17,
+      "reused_operations": 38,
+      "reinserted_operations": 1162
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3386203000009118,
+    "decoder_counts": {
+      "full_calls": 186,
+      "prefix_calls": 14,
+      "reused_operations": 26,
+      "reinserted_operations": 1174
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        28.0,
+        27.0,
+        28.0
+      ],
+      [
+        25.0,
+        28.0,
+        23.0
+      ],
+      [
+        27.0,
+        32.0,
+        20.0
+      ],
+      [
+        25.0,
+        33.0,
+        19.0
+      ],
+      [
+        26.0,
+        29.0,
+        22.0
+      ]
+    ],
+    "audited_schedules": 5,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3002605000001495,
+    "decoder_counts": {
+      "full_calls": 180,
+      "prefix_calls": 20,
+      "reused_operations": 32,
+      "reinserted_operations": 1168
+    },
+    "instance": "T4",
+    "hv": 0.95971311934642,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.29083130000071833,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2533676999992167,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3505691999998817,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        14.0,
+        38.0,
+        14.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        16.0,
+        37.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2973945999983698,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7158664025683119,
+    "igdplus": 0.01597079121821677,
+    "hv_ratio": 0.972258506529219,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2949508000019705,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30934830000114744,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.29596480000327574,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2885040000001027,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.26746490000004997,
+    "decoder_counts": {
+      "full_calls": 161,
+      "prefix_calls": 39,
+      "reused_operations": 75,
+      "reinserted_operations": 1125
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        21.0,
+        28.0,
+        15.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        17.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        18.0,
+        32.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2866689000002225,
+    "decoder_counts": {
+      "full_calls": 165,
+      "prefix_calls": 35,
+      "reused_operations": 56,
+      "reinserted_operations": 1144
+    },
+    "instance": "T5",
+    "hv": 0.7344652850342994,
+    "igdplus": 0.01693958215697346,
+    "hv_ratio": 0.9975186970125514,
+    "exact_coverage": 0.7142857142857143
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22968760000003385,
+    "decoder_counts": {
+      "full_calls": 133,
+      "prefix_calls": 67,
+      "reused_operations": 107,
+      "reinserted_operations": 1093
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.21992669999963255,
+    "decoder_counts": {
+      "full_calls": 152,
+      "prefix_calls": 48,
+      "reused_operations": 91,
+      "reinserted_operations": 1109
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        37.0,
+        14.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        15.0,
+        37.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 8,
+    "invalid_schedules": 0,
+    "runtime_s": 0.24565010000151233,
+    "decoder_counts": {
+      "full_calls": 144,
+      "prefix_calls": 56,
+      "reused_operations": 106,
+      "reinserted_operations": 1094
+    },
+    "instance": "T5",
+    "hv": 0.7128580446269508,
+    "igdplus": 0.0172860307381374,
+    "hv_ratio": 0.9681726860623282,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.25368259999959264,
+    "decoder_counts": {
+      "full_calls": 165,
+      "prefix_calls": 35,
+      "reused_operations": 58,
+      "reinserted_operations": 1142
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.26713170000221,
+    "decoder_counts": {
+      "full_calls": 171,
+      "prefix_calls": 29,
+      "reused_operations": 62,
+      "reinserted_operations": 1138
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.28751999999803957,
+    "decoder_counts": {
+      "full_calls": 163,
+      "prefix_calls": 37,
+      "reused_operations": 66,
+      "reinserted_operations": 1134
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2699784000033105,
+    "decoder_counts": {
+      "full_calls": 171,
+      "prefix_calls": 29,
+      "reused_operations": 50,
+      "reinserted_operations": 1150
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.31279259999791975,
+    "decoder_counts": {
+      "full_calls": 170,
+      "prefix_calls": 30,
+      "reused_operations": 44,
+      "reinserted_operations": 1156
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2973024999992049,
+    "decoder_counts": {
+      "full_calls": 164,
+      "prefix_calls": 36,
+      "reused_operations": 60,
+      "reinserted_operations": 1140
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.32319009999991977,
+    "decoder_counts": {
+      "full_calls": 171,
+      "prefix_calls": 29,
+      "reused_operations": 65,
+      "reinserted_operations": 1135
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2588627000004635,
+    "decoder_counts": {
+      "full_calls": 166,
+      "prefix_calls": 34,
+      "reused_operations": 73,
+      "reinserted_operations": 1127
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30848100000002887,
+    "decoder_counts": {
+      "full_calls": 172,
+      "prefix_calls": 28,
+      "reused_operations": 48,
+      "reinserted_operations": 1152
+    },
+    "instance": "T5",
+    "hv": 0.7360146539311623,
+    "igdplus": 0.005646527385657819,
+    "hv_ratio": 0.9996229822315842,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.27425709999806713,
+    "decoder_counts": {
+      "full_calls": 173,
+      "prefix_calls": 27,
+      "reused_operations": 50,
+      "reinserted_operations": 1150
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        14.0,
+        41.0,
+        10.0
+      ],
+      [
+        22.0,
+        26.0,
+        22.0
+      ],
+      [
+        13.0,
+        45.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        15.0
+      ],
+      [
+        14.0,
+        36.0,
+        12.0
+      ],
+      [
+        16.0,
+        33.0,
+        15.0
+      ],
+      [
+        13.0,
+        47.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30523960000209627,
+    "decoder_counts": {
+      "full_calls": 162,
+      "prefix_calls": 38,
+      "reused_operations": 89,
+      "reinserted_operations": 1111
+    },
+    "instance": "T5",
+    "hv": 0.7362922491918544,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.33726300000125775,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3235452000008081,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3834838000002492,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.30608009999923524,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3840581000004022,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.4145046000012371,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.35101310000027297,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-NSGA",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2839851999997336,
+    "decoder_counts": {
+      "full_calls": 200,
+      "prefix_calls": 0,
+      "reused_operations": 0,
+      "reinserted_operations": 1200
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.22151279999889084,
+    "decoder_counts": {
+      "full_calls": 149,
+      "prefix_calls": 51,
+      "reused_operations": 91,
+      "reinserted_operations": 1109
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.27013670000087586,
+    "decoder_counts": {
+      "full_calls": 157,
+      "prefix_calls": 43,
+      "reused_operations": 74,
+      "reinserted_operations": 1126
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2628850000000966,
+    "decoder_counts": {
+      "full_calls": 168,
+      "prefix_calls": 32,
+      "reused_operations": 44,
+      "reinserted_operations": 1156
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.26927530000102706,
+    "decoder_counts": {
+      "full_calls": 160,
+      "prefix_calls": 40,
+      "reused_operations": 66,
+      "reinserted_operations": 1134
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.28671659999963595,
+    "decoder_counts": {
+      "full_calls": 168,
+      "prefix_calls": 32,
+      "reused_operations": 47,
+      "reinserted_operations": 1153
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        16.0,
+        38.0,
+        13.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.34733349999805796,
+    "decoder_counts": {
+      "full_calls": 164,
+      "prefix_calls": 36,
+      "reused_operations": 64,
+      "reinserted_operations": 1136
+    },
+    "instance": "T6",
+    "hv": 0.7756609823837413,
+    "igdplus": 0.008378718056137411,
+    "hv_ratio": 0.9904992036967434,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3545697999979893,
+    "decoder_counts": {
+      "full_calls": 159,
+      "prefix_calls": 41,
+      "reused_operations": 60,
+      "reinserted_operations": 1140
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-6",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.31254009999975096,
+    "decoder_counts": {
+      "full_calls": 160,
+      "prefix_calls": 40,
+      "reused_operations": 74,
+      "reinserted_operations": 1126
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530001,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.32553270000062184,
+    "decoder_counts": {
+      "full_calls": 173,
+      "prefix_calls": 27,
+      "reused_operations": 45,
+      "reinserted_operations": 1155
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530002,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        14.0,
+        46.0,
+        14.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2592984000002616,
+    "decoder_counts": {
+      "full_calls": 179,
+      "prefix_calls": 21,
+      "reused_operations": 38,
+      "reinserted_operations": 1162
+    },
+    "instance": "T6",
+    "hv": 0.778797400907341,
+    "igdplus": 0.005832810381741061,
+    "hv_ratio": 0.9945043298029167,
+    "exact_coverage": 0.8571428571428571
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530003,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3025616999984777,
+    "decoder_counts": {
+      "full_calls": 166,
+      "prefix_calls": 34,
+      "reused_operations": 58,
+      "reinserted_operations": 1142
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530004,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2872769999994489,
+    "decoder_counts": {
+      "full_calls": 171,
+      "prefix_calls": 29,
+      "reused_operations": 51,
+      "reinserted_operations": 1149
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530005,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.287188000002061,
+    "decoder_counts": {
+      "full_calls": 171,
+      "prefix_calls": 29,
+      "reused_operations": 52,
+      "reinserted_operations": 1148
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530006,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.3626075999964087,
+    "decoder_counts": {
+      "full_calls": 171,
+      "prefix_calls": 29,
+      "reused_operations": 56,
+      "reinserted_operations": 1144
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530007,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        18.0,
+        19.0,
+        17.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 7,
+    "invalid_schedules": 0,
+    "runtime_s": 0.24591630000213627,
+    "decoder_counts": {
+      "full_calls": 170,
+      "prefix_calls": 30,
+      "reused_operations": 54,
+      "reinserted_operations": 1146
+    },
+    "instance": "T6",
+    "hv": 0.7831010660975977,
+    "igdplus": 0.0,
+    "hv_ratio": 1.0,
+    "exact_coverage": 1.0
+  },
+  {
+    "method": "H-MVNS-2",
+    "seed": 530008,
+    "evaluations": 200,
+    "front": [
+      [
+        20.0,
+        17.0,
+        17.0
+      ],
+      [
+        18.0,
+        28.0,
+        12.0
+      ],
+      [
+        15.0,
+        35.0,
+        15.0
+      ],
+      [
+        18.0,
+        22.0,
+        14.0
+      ],
+      [
+        14.0,
+        40.0,
+        14.0
+      ],
+      [
+        16.0,
+        30.0,
+        13.0
+      ]
+    ],
+    "audited_schedules": 6,
+    "invalid_schedules": 0,
+    "runtime_s": 0.2984673999999359,
+    "decoder_counts": {
+      "full_calls": 169,
+      "prefix_calls": 31,
+      "reused_operations": 58,
+      "reinserted_operations": 1142
+    },
+    "instance": "T6",
+    "hv": 0.7793320177012483,
+    "igdplus": 0.008378718056137411,
+    "hv_ratio": 0.9951870217529756,
+    "exact_coverage": 0.8571428571428571
+  }
+]

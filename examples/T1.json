@@ -1,0 +1,144 @@
+{
+  "jobs": [
+    {
+      "job_id": "J1",
+      "family": "F1",
+      "release_time": 0,
+      "due_date": 1000
+    },
+    {
+      "job_id": "J2",
+      "family": "F2",
+      "release_time": 0,
+      "due_date": 1000
+    },
+    {
+      "job_id": "J3",
+      "family": "F3",
+      "release_time": 0,
+      "due_date": 1000
+    }
+  ],
+  "machines": [
+    {
+      "machine_id": "M1"
+    },
+    {
+      "machine_id": "M2"
+    }
+  ],
+  "operations": [
+    {
+      "job_id": "J1",
+      "op_index": 1,
+      "machine_id": "M1",
+      "processing_time": 4,
+      "setup_time": 0,
+      "running_energy": 12,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J1",
+      "op_index": 1,
+      "machine_id": "M2",
+      "processing_time": 3,
+      "setup_time": 0,
+      "running_energy": 4,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J1",
+      "op_index": 2,
+      "machine_id": "M1",
+      "processing_time": 1,
+      "setup_time": 0,
+      "running_energy": 7,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J1",
+      "op_index": 2,
+      "machine_id": "M2",
+      "processing_time": 1,
+      "setup_time": 0,
+      "running_energy": 9,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J2",
+      "op_index": 1,
+      "machine_id": "M1",
+      "processing_time": 5,
+      "setup_time": 0,
+      "running_energy": 3,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J2",
+      "op_index": 1,
+      "machine_id": "M2",
+      "processing_time": 4,
+      "setup_time": 0,
+      "running_energy": 7,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J2",
+      "op_index": 2,
+      "machine_id": "M1",
+      "processing_time": 6,
+      "setup_time": 0,
+      "running_energy": 9,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J2",
+      "op_index": 2,
+      "machine_id": "M2",
+      "processing_time": 7,
+      "setup_time": 0,
+      "running_energy": 9,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J3",
+      "op_index": 1,
+      "machine_id": "M1",
+      "processing_time": 5,
+      "setup_time": 0,
+      "running_energy": 5,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J3",
+      "op_index": 1,
+      "machine_id": "M2",
+      "processing_time": 6,
+      "setup_time": 0,
+      "running_energy": 11,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J3",
+      "op_index": 2,
+      "machine_id": "M1",
+      "processing_time": 7,
+      "setup_time": 0,
+      "running_energy": 6,
+      "auxiliary_energy": 0
+    },
+    {
+      "job_id": "J3",
+      "op_index": 2,
+      "machine_id": "M2",
+      "processing_time": 7,
+      "setup_time": 0,
+      "running_energy": 7,
+      "auxiliary_energy": 0
+    }
+  ],
+  "metadata": {
+    "seed": 520001,
+    "constructed_validation_not_measured": true
+  }
+}

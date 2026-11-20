@@ -1,0 +1,29 @@
+{
+  "cases": 6,
+  "operations": 6,
+  "machines": 2,
+  "input_sha256": {
+    "T1-input.json": "d078534a37e5f33589e0183f465edf10e4b9a4818c56ee454427b6744ad37f7d",
+    "T2-input.json": "96658e16e98925eaece0ba7d5f45f2319b6f438d4ab513003a3e71f49c8f4f73",
+    "T3-input.json": "e638b0272bedf674e88d34ce5635a6a9af586c552e31208a9218a6782cec043e",
+    "T4-input.json": "40b2b8fa06013ccfe8a2a82999c368991c8cd0b45f0ce91dfa508ecbae4c9e34",
+    "T5-input.json": "5bf494324bf42aa974e60fc436754b5ee41957c3797981e60106ea1c91816e6b",
+    "T6-input.json": "ac178695142a24c6a733956030573a1e9d2325240adf73fd3c863876e844e57f"
+  },
+  "methods": [
+    "H-NSGA",
+    "H-MVNS-6",
+    "H-MVNS-2"
+  ],
+  "seeds": [
+    530001,
+    530002,
+    530003,
+    530004,
+    530005,
+    530006,
+    530007,
+    530008
+  ],
+  "budget": 200
+}

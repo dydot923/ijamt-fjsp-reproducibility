@@ -1,0 +1,52 @@
+# Python and local tools
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Generated output
+outputs/
+logs/*
+!logs/.gitkeep
+reports/*
+!reports/.gitkeep
+figures/reproduced/
+figures/data/*
+!figures/data/.gitkeep
+qa/theory-upgrade-evidence/*.json
+qa/theory-upgrade-evidence/*.jsonl
+tables/Table*.csv
+tables/*.tex
+replication/results*/
+!replication/results_v3/
+replication/results_v3/*
+!replication/results_v3/.gitkeep
+!replication/results_v2/
+replication/results_v2/*
+!replication/results_v2/.gitkeep
+
+# Additional inputs and frozen material require separate release review
+replication/data/*
+!replication/data/.gitkeep
+frozen/*
+!frozen/replication/
+frozen/replication/*
+!frozen/replication/.gitkeep
+DATA_MANIFEST.json
+DATA_RELEASE_STATUS.txt
+
+# Manuscripts and author/local archives do not belong in the code tree
+*.docx
+*.doc
+*.zip
+*.7z
+~$*
